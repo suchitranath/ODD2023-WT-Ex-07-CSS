@@ -189,22 +189,46 @@ ref no: 23000325
 # Output:
 # 1 -
 
-![Alt text](<Screenshot 2023-12-02 103952.png>) ![Alt text](<Screenshot 2023-12-02 104015.png>)
+![Screenshot 2023-12-02 103952](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/c4a900d1-1fb6-4b9f-a1ed-8ec5e7d03287)
+
+
+
+
+
+![Screenshot 2023-12-02 104015](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/cec09278-8781-468d-ab52-7ea17236f063)
 
 # 2 -
-![Alt text](<Screenshot 2023-12-02 104130.png>) ![Alt text](<Screenshot 2023-12-02 104118.png>)
+![Screenshot 2023-12-02 104118](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/64b7a0e9-4daf-4252-93a1-c843fd2f691e)
+
+
+![Screenshot 2023-12-02 104130](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/b56fedde-73d9-4534-842e-03c9107f758e)
+
 
 # 3 -
 
-![Alt text](<Screenshot 2023-12-02 105957.png>) ![Alt text](<Screenshot 2023-12-02 105851.png>)
+![Screenshot 2023-12-02 105851](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/e83be69e-b600-4daf-9618-d1e81c067b3c)
+
+![Screenshot 2023-12-02 105957](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/a96dc55a-cd49-40e4-838d-de93a383e86a)
 
 # 4-
 
-![Alt text](<Screenshot 2023-12-03 091221.png>) ![Alt text](<Screenshot 2023-12-03 091303.png>) ![Alt text](<Screenshot 2023-12-03 090948.png>)
+![Screenshot 2023-12-03 083830](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/edb91e40-0ffe-4d5f-8515-e748c02080d8)
+
+![Screenshot 2023-12-03 083852](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/2584870c-0171-4c65-870a-d3a34c8fea37)
+
 
 # 5 -
 
-![Alt text](<Screenshot 2023-12-03 083830-2.png>) ![Alt text](<Screenshot 2023-12-03 083852-2.png>)
+![Screenshot 2023-12-03 084820](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/5c365368-b836-4ddd-a33e-250455b9c8ea)
+
+![Screenshot 2023-12-03 084844](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/d302ea71-a422-44cb-93fd-dd7fd765bd18)
+
 
 # 6 -
-![Alt text](<Screenshot 2023-12-03 084844.png>) ![Alt text](<Screenshot 2023-12-03 084820.png>)
+
+![Screenshot 2023-12-03 090948](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/2a2f92af-6030-4f92-8a14-5518599c9a3c)
+
+![Screenshot 2023-12-03 091221](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/e914e0b5-806f-4b9b-bd35-62d000e9b38b)
+
+![Screenshot 2023-12-03 091303](https://github.com/suchitranath/ODD2023-WT-Ex-07-CSS/assets/145742631/e7fa04bc-fbf9-4893-9972-6788d09991a5)
+
